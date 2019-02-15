@@ -30,7 +30,7 @@
                 },
                 {
                     "title": "Plus Minus",
-                    "url": "https://www.hackerrank.com/challenges/diagonal-difference/problem",
+                    "url": "https://www.hackerrank.com/challenges/plus-minus/problem",
                     "points": 10,
                     "language": ".py"
                 },
@@ -53,8 +53,8 @@
                     "language": ".py"
                 },
                 {
-                    "title": "Time_Conversion",
-                    "url": "https://www.hackerrank.com/challenges/birthday-cake-candles/problem",
+                    "title": "Time Conversion",
+                    "url": "https://www.hackerrank.com/challenges/time-conversion/problem",
                     "points": 15,
                     "language": ".py"
                 }
