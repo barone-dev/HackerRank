@@ -17,14 +17,14 @@ for difficulty in sorted(data['solutions'].keys()):
     print("-----------" + difficulty + "-----------")
     for i in range(len(dif_dict)):
         table_item = "| " + difficulty + " | "
-        table_item += "[" + dif_dict[i]['challenge']['title'] + "]"
-        table_item += "(" + dif_dict[i]['challenge']['url'] + ") | "
+        table_item += "[" + dif_dict[i]['title'] + "]"
+        table_item += "(" + dif_dict[i]['url'] + ") | "
         table_item += str(dif_dict[i]['points']) + " | "
-        table_item += "[" + dif_dict[i]['solution']['title'] + "]"
-        file_url = solution_base_url + dif_dict[i]['solution']['filename']
+        table_item += "[code" + dif_dict[i]['language'] + "]"
+        file_url = solution_base_url + dif_dict[i]['title'].replace(' ', '_') + dif_dict[i]['language']
         table_item += "(" + file_url + ") |"
 
-        table_content[dif_dict[i]['challenge']['title']] = table_item
+        table_content[dif_dict[i]['title']] = table_item
         print(table_item)
 
 lines = [title, table_header, table_config]

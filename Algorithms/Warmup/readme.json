@@ -5,81 +5,58 @@
     "solutions": {
             "0-easy": [
                 {
-                    "challenge": {
-                        "title": "Solve Me First",
-                        "url": "https://www.hackerrank.com/challenges/solve-me-first/problem"
-                    },
+                    "title": "Solve Me First",
+                    "url": "https://www.hackerrank.com/challenges/solve-me-first/problem",
                     "points": 10,
-                    "solution": {
-                        "title": "code.py",
-                        "filename": "Solve_Me_First.py"
-                    }
+                    "language": ".py"
                 },
                 {
-                    "challenge": {
-                        "title": "Compare the Triplets",
-                        "url": "https://www.hackerrank.com/challenges/compare-the-triplets/problem"
-                    },
+                    "title": "Compare the Triplets",
+                    "url": "https://www.hackerrank.com/challenges/compare-the-triplets/problem",
                     "points": 10,
-                    "solution": {
-                        "title": "code.py",
-                        "filename": "Compare_the_Triplets.py"
-                    }
+                    "language": ".py"
                 },
                 {
-                    "challenge": {
-                        "title": "A Very Big Sum",
-                        "url": "https://www.hackerrank.com/challenges/a-very-big-sum/problem"
-                    },
+                    "title": "A Very Big Sum",
+                    "url": "https://www.hackerrank.com/challenges/a-very-big-sum/problem",
                     "points": 10,
-                    "solution": {
-                        "title": "code.py",
-                        "filename": "A_Very_Big_Sum.py"
-                    }
+                    "language": ".py"
                 },
                 {
-                    "challenge": {
-                        "title": "Diagonal Difference",
-                        "url": "https://www.hackerrank.com/challenges/diagonal-difference/problem"
-                    },
+                    "title": "Diagonal Difference",
+                    "url": "https://www.hackerrank.com/challenges/diagonal-difference/problem",
                     "points": 10,
-                    "solution": {
-                        "title": "code.py",
-                        "filename": "Diagonal_Difference.py"
-                    }
+                    "language": ".py"
                 },
                 {
-                    "challenge": {
-                        "title": "Plus Minus",
-                        "url": "https://www.hackerrank.com/challenges/diagonal-difference/problem"
-                    },
+                    "title": "Plus Minus",
+                    "url": "https://www.hackerrank.com/challenges/diagonal-difference/problem",
                     "points": 10,
-                    "solution": {
-                        "title": "code.py",
-                        "filename": "Plus_Minus.py"
-                    }
+                    "language": ".py"
                 },
                 {
-                    "challenge": {
-                        "title": "Staircase",
-                        "url": "https://www.hackerrank.com/challenges/staircase/problem"
-                    },
+                    "title": "Staircase",
+                    "url": "https://www.hackerrank.com/challenges/staircase/problem",
                     "points": 10,
-                    "solution": {
-                        "title": "code.py",
-                        "filename": "Staircase.py"
-                    }
+                    "language": ".py"
                 },
                 {
-                    "challenge": {
-                        "title": "Mini-Max Sum",
-                        "url": "https://www.hackerrank.com/challenges/mini-max-sum/problem"
-                    },
+                    "title": "Mini-Max Sum",
+                    "url": "https://www.hackerrank.com/challenges/mini-max-sum/problem",
                     "points": 10,
-                    "solution": {
-                        "title": "code.py",
-                        "filename": "Mini-Max_Sum.py"
-                    }
+                    "language": ".py"
+                },
+                {
+                    "title": "Birthday Cake Candles",
+                    "url": "https://www.hackerrank.com/challenges/birthday-cake-candles/problem",
+                    "points": 10,
+                    "language": ".py"
+                },
+                {
+                    "title": "Time_Conversion",
+                    "url": "https://www.hackerrank.com/challenges/birthday-cake-candles/problem",
+                    "points": 15,
+                    "language": ".py"
                 }
             ],
             "1-medium": [],
