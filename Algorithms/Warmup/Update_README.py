@@ -14,7 +14,7 @@ table_content = {}
 for difficulty in sorted(data['solutions'].keys()):
     dif_dict = data['solutions'][difficulty]
     difficulty = difficulty[2:]
-    print(difficulty)
+    print("-----------" + difficulty + "-----------")
     for i in range(len(dif_dict)):
         table_item = "| " + difficulty + " | "
         table_item += "[" + dif_dict[i]['challenge']['title'] + "]"
@@ -26,13 +26,6 @@ for difficulty in sorted(data['solutions'].keys()):
 
         table_content[dif_dict[i]['challenge']['title']] = table_item
         print(table_item)
-
-print(table_content)
-
-dic = {"Banana":['madura'], "Abacate":['verde']}
-
-keys = sorted(dic.keys())
-print(keys)
 
 lines = [title, table_header, table_config]
 for k in sorted(table_content):

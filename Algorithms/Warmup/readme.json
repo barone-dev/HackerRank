@@ -14,6 +14,50 @@
                         "title": "code.py",
                         "filename": "Solve_Me_First.py"
                     }
+                },
+                {
+                    "challenge": {
+                        "title": "Compare the Triplets",
+                        "url": "https://www.hackerrank.com/challenges/compare-the-triplets/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "Compare_the_Triplets.py"
+                    }
+                },
+                {
+                    "challenge": {
+                        "title": "A Very Big Sum",
+                        "url": "https://www.hackerrank.com/challenges/a-very-big-sum/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "A_Very_Big_Sum.py"
+                    }
+                },
+                {
+                    "challenge": {
+                        "title": "Diagonal Difference",
+                        "url": "https://www.hackerrank.com/challenges/diagonal-difference/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "Diagonal_Difference.py"
+                    }
+                },
+                {
+                    "challenge": {
+                        "title": "Plus Minus",
+                        "url": "https://www.hackerrank.com/challenges/diagonal-difference/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "Plus_Minus.py"
+                    }
                 }
             ],
             "1-medium": [],
