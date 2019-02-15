@@ -58,6 +58,17 @@
                         "title": "code.py",
                         "filename": "Plus_Minus.py"
                     }
+                },
+                {
+                    "challenge": {
+                        "title": "Staircase",
+                        "url": "https://www.hackerrank.com/challenges/staircase/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "Staircase.py"
+                    }
                 }
             ],
             "1-medium": [],
