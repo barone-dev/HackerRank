@@ -38,6 +38,6 @@ lines = [title, table_header, table_config]
 for k in sorted(table_content):
     lines.append(table_content[k])
 
-with open('test.md', 'w') as file:
+with open('README.md', 'w') as file:
     for line in lines:
         file.write(line + '\n')
