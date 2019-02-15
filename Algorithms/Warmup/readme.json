@@ -1,0 +1,33 @@
+{
+    "domain": "Algorithms",
+    "subdomain": "Warmup",
+    "headers": ["Difficulty", "Challenge", "Points", "Solution"],
+    "solutions": {
+            "0-easy": [
+                {
+                    "challenge": {
+                        "title": "Solve Me First",
+                        "url": "https://www.hackerrank.com/challenges/solve-me-first/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "Solve_Me_First.py"
+                    }
+                },
+                {
+                    "challenge": {
+                        "title": "A Me Firs",
+                        "url": "https://www.hackerrank.com/challenges/solve-me-first/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "Solve_Me_First.py"
+                    }
+                }
+            ],
+            "1-medium": [],
+            "2-hard": []
+        }
+}
