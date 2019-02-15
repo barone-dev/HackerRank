@@ -69,6 +69,17 @@
                         "title": "code.py",
                         "filename": "Staircase.py"
                     }
+                },
+                {
+                    "challenge": {
+                        "title": "Mini-Max Sum",
+                        "url": "https://www.hackerrank.com/challenges/mini-max-sum/problem"
+                    },
+                    "points": 10,
+                    "solution": {
+                        "title": "code.py",
+                        "filename": "Mini-Max_Sum.py"
+                    }
                 }
             ],
             "1-medium": [],
