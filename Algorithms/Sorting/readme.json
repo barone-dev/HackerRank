@@ -1,0 +1,17 @@
+{
+    "domain": "Algorithms",
+    "subdomain": "Sorting",
+    "headers": ["Difficulty", "Challenge", "Points", "Solution"],
+    "solutions": {
+            "0-easy": [
+                {
+                    "title": "Quicksort 1 - Partition",
+                    "url": "https://www.hackerrank.com/challenges/quicksort1/problem",
+                    "points": 10,
+                    "language": ".py"
+                }
+            ],
+            "1-medium": [],
+            "2-hard": []
+        }
+}

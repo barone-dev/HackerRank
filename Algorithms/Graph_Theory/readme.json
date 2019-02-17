@@ -1,0 +1,17 @@
+{
+    "domain": "Algorithms",
+    "subdomain": "Graph_Theory",
+    "headers": ["Difficulty", "Challenge", "Points", "Solution"],
+    "solutions": {
+            "0-easy": [],
+            "1-medium": [
+                {
+                    "title": "Roads and Libraries",
+                    "url": "https://www.hackerrank.com/challenges/torque-and-development/problem",
+                    "points": 30,
+                    "language": ".py"
+                }
+            ],
+            "2-hard": []
+        }
+}
